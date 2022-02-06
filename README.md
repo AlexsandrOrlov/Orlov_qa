@@ -1,6 +1,6 @@
 # Orlov_qa
 
-[Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/1-mBQ6wACPm8dVJdvpdvRHblEyMftyGix6nol34V7gkU/edit#gid=2244106086)
+[Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/1bNzunv96n2xD1b-madILDw-KdpEY1_OKaOK8xLNJMoo/edit?usp=sharing)
 
 ---
 
