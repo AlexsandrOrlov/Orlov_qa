@@ -3,7 +3,8 @@
 [Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/1bNzunv96n2xD1b-madILDw-KdpEY1_OKaOK8xLNJMoo/edit?usp=sharing)
 
 ---
-[Тестовое задание] (https://docs.google.com/document/d/1oA-wxa23gxvkwd1XTcSKLRfxICM7fGuWsjd3SUPzwss/edit?usp=sharing)
+
+[Тестовое задание](https://docs.google.com/document/d/1oA-wxa23gxvkwd1XTcSKLRfxICM7fGuWsjd3SUPzwss/edit?usp=sharing)
 
 ---
 
